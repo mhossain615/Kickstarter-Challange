@@ -10,10 +10,11 @@ The purpose of this project is to simplify the information and make it easily ac
 I realized that the higher success rates correlates with the launch date and also the goal amount a kickstarter used 
 
 ### Analysis of outcomes based on launch date
-The highest success rate came from May-july whereas the lowest rates were in the beginning of the year and end of the year Graph Located here ![Theater outcomes vs launch](/Resouces/Outcomes_vs_Goals.png)
+The highest success rate came from May-july whereas the lowest rates were in the beginning of the year and end of the year Graph Located here ![Theater outcomes vs launch Date](Outcomes_vs_Goals.png)
 
 ### Analysis of outcomes based on goals
-From my analysis i determined that that goals that had less than 1000 had a higher successful rate while 1000 to 4999 had a bigger quanity of success but had a higher failed rate as well. Also, the higher goal the more higher of a fail rate the Kickstarter outcome would be. Outcomes_vs_Goals.png
+From my analysis i determined that that goals that had less than 1000 had a higher successful rate while 1000 to 4999 had a bigger quanity of success but had a higher failed rate as well. Also, the higher goal the more higher of a fail rate the Kickstarter outcome would be. ![Outcomes based on goals]((Outcomes_vs_Goals.png)
+
 
 ### Challenges and difficulies encountered
 My biggest challenges was trying to figure out the difference in outcome based on goals and correlating it with outcomes based on launch date.
